@@ -1,0 +1,16 @@
+com.fromlabs.inventory.inventoryservice
+com.fromlabs.inventory.inventoryservice.common.exception
+com.fromlabs.inventory.inventoryservice.common.exception.handler
+com.fromlabs.inventory.inventoryservice.common.helper
+com.fromlabs.inventory.inventoryservice.common.template
+com.fromlabs.inventory.inventoryservice.common.validator
+com.fromlabs.inventory.inventoryservice.common.validator.mapper
+com.fromlabs.inventory.inventoryservice.ingredient
+com.fromlabs.inventory.inventoryservice.ingredient.beans
+com.fromlabs.inventory.inventoryservice.ingredient.config
+com.fromlabs.inventory.inventoryservice.ingredient.unit
+com.fromlabs.inventory.inventoryservice.inventory
+com.fromlabs.inventory.inventoryservice.inventory.beans
+com.fromlabs.inventory.inventoryservice.item
+com.fromlabs.inventory.inventoryservice.item.beans
+com.fromlabs.inventory.inventoryservice.item.strategy
